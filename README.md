@@ -10,7 +10,7 @@
   Você pode baixar este deck em sua [página no AnkiWeb](https://ankiweb.net/shared/info/11845592), ou na [aba Releases deste repositório](https://github.com/nonsolvent/Kaishi-pt-BR/releases).
 
 ## Como foi feita a tradução?
-  A tradução foi feita de forma manual, com a consulta de dicionários das três línguas. Sou fluente em inglês e portuguẽs, mas não em japonês, então é possível que existam algumas imprecisões. No entanto, procurei manter as frases em português parecidas com as frases em inglês do deck original, que foram extensivamente checadas pelo time que o criou.
+  A tradução foi feita de forma manual, com a consulta de dicionários das três línguas. Sou fluente em inglês e português, mas não em japonês, então é possível que existam algumas imprecisões. No entanto, procurei manter as frases em português parecidas com as frases em inglês do deck original, que foram extensivamente checadas pelo time que o criou.
 
 ## Como ativo o pitch accent?
   Instruções a respeito de recursos adicionais do deck estão disponíveis no [repositório do deck original](https://github.com/donkuri/Kaishi).
