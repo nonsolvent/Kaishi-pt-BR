@@ -4,7 +4,7 @@
   Um deck de flashcards, em português, para estudantes iniciantes de japonês. O deck conta com 1500 palavras básicas, bem como áudio nativo e imagens.
 
 ## Como uso?
-  Este recurso deve ser utilizado com o [Anki](https://apps.ankiweb.net/). O Anki é um software de repetição espaçada, que facilita a memorização de conceitos. Ele está disponível para computador e celulares.
+  Este recurso deve ser utilizado com o [Anki](https://apps.ankiweb.net/). O Anki é um software de repetição espaçada, que facilita a memorização de conceitos. Ele está disponível para Android, iOS, Linux, MacOS e Windows.
 
 ## Onde baixo?
   Você pode baixar este deck em sua [página no AnkiWeb](https://ankiweb.net/shared/info/11845592), ou na [aba Releases deste repositório](https://github.com/nonsolvent/Kaishi-pt-BR/releases).
