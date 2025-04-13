@@ -16,7 +16,7 @@
   Instruções a respeito de recursos adicionais do deck estão disponíveis no [repositório do deck original](https://github.com/donkuri/Kaishi).
 
 ## Como contribuir?
-  Abra um _issue_ na aba [issues](https://github.com/nonsolvent/Kaishi-pt-BR/issues) e explique sua sugestão de mudança, erro encontrado ou ideia.
+  Abra um _issue_ na aba [Issues](https://github.com/nonsolvent/Kaishi-pt-BR/issues) e explique sua sugestão de mudança, erro encontrado ou ideia.
 
 ## Crédito
   Todo o crédito vai para os [criadores do deck original](https://github.com/donkuri/Kaishi#credits), que fizeram um grande favor para a comunidade de estudantes da língua.
